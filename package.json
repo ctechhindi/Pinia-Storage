@@ -1,0 +1,36 @@
+{
+  "name": "@ctechhindi/pinia-storage",
+  "version": "1.0.0",
+  "description": "Store Vue 3 Store data in the browser LocalStorage",
+  "homepage": "https://github.com/ctechhindi/Pinia-Storage",
+  "bugs": "https://github.com/ctechhindi/Pinia-Storage/issues",
+  "email": "ctechhindi@gmail.com",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctechhindi/Pinia-Storage.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "publish": "npm publish --access public"
+  },
+  "keywords": [
+    "vue3",
+    "pinia",
+    "pinia-storage",
+    "storage",
+    "vue",
+    "ctechhindi"
+  ],
+  "author": "Jeevan Lal",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.5"
+  }
+}
