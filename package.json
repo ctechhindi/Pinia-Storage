@@ -1,6 +1,6 @@
 {
   "name": "@ctechhindi/pinia-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Store Vue 3 Store data in the browser LocalStorage",
   "homepage": "https://github.com/ctechhindi/Pinia-Storage",
   "bugs": "https://github.com/ctechhindi/Pinia-Storage/issues",
