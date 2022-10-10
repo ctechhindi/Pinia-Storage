@@ -1,12 +1,12 @@
 # Pinia Storage
 
-![npm license](https://img.shields.io/npm/l/@ctechhindi/Pinia-Storage.svg)
-![npm download](https://img.shields.io/npm/dm/@ctechhindi/Pinia-Storage.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/ctechhindi/Pinia-Storage.svg)
-![GitHub issues](https://img.shields.io/github/issues/ctechhindi/Pinia-Storage.svg)
-[![npm package](https://img.shields.io/npm/v/@ctechhindi/Pinia-Storage.svg)](https://www.npmjs.com/package/@ctechhindi/Pinia-Storage)
+![npm license](https://img.shields.io/npm/l/@ctechhindi/pinia-storage.svg)
+![npm download](https://img.shields.io/npm/dm/@ctechhindi/pinia-storage.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/ctechhindi/pinia-storage.svg)
+![GitHub issues](https://img.shields.io/github/issues/ctechhindi/pinia-storage.svg)
+[![npm package](https://img.shields.io/npm/v/@ctechhindi/pinia-storage.svg)](https://www.npmjs.com/package/@ctechhindi/pinia-storage)
 
-> A infinite progress bar for vue 3
+> Store Vue 3 Store data in the browser LocalStorage
 
 - [GitHub](https://github.com/ctechhindi/Pinia-Storage)
 
@@ -19,7 +19,7 @@
 ### npm
 
 ```
-npm i @ctechhindi/Pinia-Storage
+npm i @ctechhindi/pinia-storage
 ```
 
 ## Usage
